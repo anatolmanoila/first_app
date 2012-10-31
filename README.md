@@ -1,3 +1,3 @@
 # Ruby on Rails Tutorial: first application
 
-This is the first application, just skeleton.
+This is just a keleton of the first application.
